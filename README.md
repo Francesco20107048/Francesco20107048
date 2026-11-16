@@ -1,5 +1,12 @@
 # Ciao, sono Francesco 👋
 
+<p align="center">
+  <a href="https://github.com/Francesco20107048">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Studente+di+Informatica+%F0%9F%8E%93;Sviluppatore+C%2B%2B+%F0%9F%92%BB;Game+dev+con+Godot+%F0%9F%8E%AE;Web+app+con+React+e+Next.js+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" />
+  </a>
+</p>
+
+
 🎓 Studente al terzo anno di Informatica  
 💻 Appassionato di C++ e sviluppo software  
 🎮 Sto creando un gioco con Godot

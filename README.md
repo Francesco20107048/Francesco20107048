@@ -11,6 +11,10 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -24,8 +28,8 @@
 
 | Progetto | Descrizione | Stato |
 |---|---|---|
-| 🎮 **IlMioGioco** *(privato)* | Gioco sviluppato con Godot | 🚧 In corso |
-| 🥩 [**macelleria-progetto-inf**](https://github.com/Francesco20107048/macelleria-progetto-inf) | Progetto scolastico di informatica | ✅ Completato |
+| 🎮 **IlMioGioco** *(privato)* | Avventura narrativa 2D dall'umorismo nero, ambientata in un motel "due stelle" che nasconde qualcosa di inquietante. Godot 4 + Dialogic: dialoghi a scelta, oggetti da ispezionare e raccogliere, salvataggi. | 🚧 In corso |
+| 🥩 [**Il Macellaio di San Michele**](https://github.com/Francesco20107048/macelleria-progetto-inf) | Progetto scolastico: e-commerce fullstack per una macelleria napoletana, con catalogo, carrello, checkout simulato, ordini, recensioni e login. React + Tailwind sul frontend, Node.js/Express + SQLite sul backend. | ✅ Completato |
 
 ## 📊 Statistiche GitHub
 

@@ -6,7 +6,6 @@
   </a>
 </p>
 
-
 🎓 Studente al terzo anno di Informatica  
 💻 Appassionato di C++ e sviluppo software  
 🎮 Sto creando un gioco con Godot
@@ -30,6 +29,13 @@
 - Sviluppare in **C++**
 - Creare interfacce e applicazioni con **React** e **Next.js**
 - Sperimentare con **Godot** e lo sviluppo di videogiochi
+
+## 📚 Ora sto imparando
+
+- 🌐 **Reti di calcolatori**: protocolli, TCP/IP e come comunicano i sistemi
+- ⚛️ **React**: componenti, hook e gestione dello stato
+- 🔐 **Prossimo obiettivo**: avvicinarmi alla **cybersicurezza**
+- 🎮 **Il sogno**: pubblicare il mio gioco su **Steam**
 
 ## 📂 Progetti
 

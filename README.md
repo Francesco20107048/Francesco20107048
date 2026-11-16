@@ -33,7 +33,7 @@
 ## 📚 Ora sto imparando
 
 - 🌐 **Reti di calcolatori**: protocolli, TCP/IP e come comunicano i sistemi
-- ⚛️ **React**: componenti, hook e gestione dello stato
+- ⚛️ **Rust**: il linguaggio che sto studiando per scrivere codice veloce e sicuro
 - 🔐 **Prossimo obiettivo**: avvicinarmi alla **cybersicurezza**
 - 🎮 **Il sogno**: pubblicare il mio gioco su **Steam**
 

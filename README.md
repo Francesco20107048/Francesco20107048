@@ -24,7 +24,7 @@
 
 | Progetto | Descrizione | Stato |
 |---|---|---|
-| 🎮 [**IlMioGioco**](https://github.com/Francesco20107048/IlMioGioco) | Gioco sviluppato con Godot | 🚧 In corso |
+| 🎮 **IlMioGioco** *(privato)* | Gioco sviluppato con Godot | 🚧 In corso |
 | 🥩 [**macelleria-progetto-inf**](https://github.com/Francesco20107048/macelleria-progetto-inf) | Progetto scolastico di informatica | ✅ Completato |
 
 ## 📊 Statistiche GitHub
